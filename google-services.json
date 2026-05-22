@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "90611484556",
+    "project_id": "shop01-a8a0a",
+    "storage_bucket": "shop01-a8a0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90611484556:android:1f230cee1773166a3cf8a9",
+        "android_client_info": {
+          "package_name": "com.example.fluttershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90611484556-qh8co1aogo3te9nvnh834p01osqmf0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIGUvBSMcM_tbn3MRc3VtEr-HPSjGt5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90611484556-qh8co1aogo3te9nvnh834p01osqmf0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90611484556:android:37429ef17c1160ce3cf8a9",
+        "android_client_info": {
+          "package_name": "com.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90611484556-qh8co1aogo3te9nvnh834p01osqmf0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIGUvBSMcM_tbn3MRc3VtEr-HPSjGt5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90611484556-qh8co1aogo3te9nvnh834p01osqmf0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
